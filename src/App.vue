@@ -14,7 +14,7 @@ import TheWelcome from './components/TheWelcome.vue'
 <script
     setup
     lang="ts">
-    function helloWorld() {
+    function helloWorldAgain() {
         console.log("Hello, world!");
     }
 </script>
